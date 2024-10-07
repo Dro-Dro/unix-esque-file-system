@@ -1,5 +1,5 @@
-# UNIX Shell
+# UNIX-like File System
 ## Description
-This project consists of a C program that serves as a shell interface (much like UNIX) that can accept user commands and execute them with a seperate process.
+This project consists of a recreation of the UNIX file system.
 ## Goals
-Replicate the UNIX commands using fork(), exec(), wait(), dup2(), and pipe() system calls.
+Recreate several UNIX commands and the memory system.
